@@ -1,0 +1,10 @@
+ESTA ES LA VERSIÓN AUTÓNOMA PARA PUBLICAR COMO WEB.
+
+No necesitas copiarla a otro proyecto. Sube TODOS los archivos y carpetas de este ZIP a un repositorio de GitHub. Luego importa ese repositorio desde Vercel.
+
+En Vercel, si solicita ajustes:
+- Framework Preset: Vite
+- Build Command: npm run build
+- Output Directory: dist
+
+Antes de promocionar la web, reemplaza en src/data/site.ts los proyectos e imágenes de ejemplo por tus trabajos reales.
